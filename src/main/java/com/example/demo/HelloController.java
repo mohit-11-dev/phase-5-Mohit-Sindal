@@ -8,7 +8,7 @@ public class HelloController {
 
 	@GetMapping("/api")
 	public String showData() {
-		return "Hello World!!!!!";
+		return "Hello World!!!";
 	}
 	
 }
